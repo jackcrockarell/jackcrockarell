@@ -17,7 +17,7 @@ I am a **Computer Science student** at *West Chester University*, passionate abo
 
 ### 🌟 Featured Projects
 
-- **[Java Crime Statistics Processor](https://github.com/your-repo)** - A program that parses and organizes crime statistics from historical texts.
+- **[Java Crime Statistics Processor](https://github.com/jackcrockarell/Text-Processor)** - A program that parses and organizes crime statistics from historical texts.
 - **[Maze Solver](https://github.com/your-repo)** - A recursive backtracking algorithm to solve mazes.
 - **[Linear Regression Model](https://github.com/your-repo)** - Implementation of a linear regression model in Java.
 
