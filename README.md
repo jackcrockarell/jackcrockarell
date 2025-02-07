@@ -8,9 +8,9 @@ I am a **Computer Science student** at *West Chester University*, passionate abo
 
 ### 🛠️ Technologies & Tools
 
-- **Programming Languages:** Java ☕ | Python 🐍 | SQL 🗄️ | Haskell 🔢
+- **Programming Languages:** Java ☕ | Python 🐍 | Haskell 🔢
 - **Version Control:** Git & GitHub 🖥️
-- **Tools & IDEs:** IntelliJ IDEA | VS Code | MySQL Workbench | PyCharm
+- **Tools & IDEs:** IntelliJ IDEA | VS Code | PyCharm
 - **Operating Systems:** Windows 🏁 
 
 ---
