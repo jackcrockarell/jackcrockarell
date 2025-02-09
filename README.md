@@ -1,4 +1,4 @@
-## Hi there, I'm Jack Crockarell! 👋
+## Hi there, I'm Jack Crockarell! 
 
 ### 🎓 Computer Science Student | West Chester University
 
