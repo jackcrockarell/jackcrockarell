@@ -19,9 +19,7 @@ I am a **Computer Science student** at *West Chester University*, passionate abo
 
 - **[Java Crime Statistics Processor](https://github.com/jackcrockarell/Text-Processor)** - Java-based program that parses and organizes crime statistics from historical texts.
 - **[Library Checkout System](https://github.com/jackcrockarell/Library-Linked-List)** - Java-based library management system that uses a singly linked list to store books and a stack to track checked-out books.
-- **[Compund Interest Calculator](https://github.com/jackcrockarell/CompoundInterestCalculator)** - Python-based program that calculates compound interest based on user-inputted principal, interest rate, and time period.
-
-*(Check out my repositories for more cool projects!)*
+- **[Compound Interest Calculator](https://github.com/jackcrockarell/CompoundInterestCalculator)** - Python-based program that calculates compound interest based on user-inputted principal, interest rate, and time period.
 
 ---
 
@@ -30,7 +28,3 @@ I am a **Computer Science student** at *West Chester University*, passionate abo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack%20Crockarell-blue?logo=linkedin)](https://www.linkedin.com/in/jack-crockarell-6a7214228/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Jack%20Crockarell-181717?logo=github)](https://github.com/jackcrockarell)  
 [![Email](https://img.shields.io/badge/Email-jack.crockarell@gmail.com-red?logo=gmail)](mailto:jack.crockarell@gmail.com)  
-
----
-
-🚀 *Let’s build something amazing together!*
