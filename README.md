@@ -28,5 +28,5 @@ I am a **Computer Science student** at *West Chester University*, passionate abo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack%20Crockarell-blue?logo=linkedin)](https://www.linkedin.com/in/jack-crockarell-6a7214228/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Jack%20Crockarell-181717?logo=github)](https://github.com/jackcrockarell)  
 [![Email](https://img.shields.io/badge/Email-jack.crockarell@gmail.com-red?logo=gmail)](mailto:jack.crockarell@gmail.com)  
-📄 [**View My Resume**](https://drive.google.com/file/d/1_9CLc2M3mmS_3n5dYkgaBGpxFeSAwEQt/view?usp=sharing)
+📄 [**View My Resume**](https://drive.google.com/file/d/1WcdNdO0ceLuevPXD1S30q7F4v0qaIdVe/view?usp=drive_link)
 
